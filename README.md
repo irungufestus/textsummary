@@ -15,7 +15,7 @@
 
 Clone the repository
 
-<https://github.com/entbappy/End-to-end-Text-Summarization>
+<https://github.com/irungufestus/textsummary.git>
 
 STEP 01- Create a conda environment  
 
