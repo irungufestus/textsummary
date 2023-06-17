@@ -17,16 +17,16 @@ Clone the repository
 
 <https://github.com/irungufestus/textsummary.git>
 
-STEP 01- Create a conda environment  
+### STEP 01- Create a conda environment  
 
-conda create -n summary python=3.10.3  -y  
+conda create -n summary  python=3.11.3    -y  
 
 conda activate summary  
 
-STEP 02- install the requirements file
+### STEP 02- install the requirements file
 
 pip install -r requirements.txt
 
-Finally run the following command
+### Finally run the following command
 
 python app.py
